@@ -1,0 +1,14 @@
+C:\Users\dfmcd\source\repos\GroupProject1\bin\Debug\GroupProject1.exe.config
+C:\Users\dfmcd\source\repos\GroupProject1\bin\Debug\GroupProject1.exe
+C:\Users\dfmcd\source\repos\GroupProject1\bin\Debug\GroupProject1.pdb
+C:\Users\dfmcd\source\repos\GroupProject1\obj\Debug\GroupProject1.csprojAssemblyReference.cache
+C:\Users\dfmcd\source\repos\GroupProject1\obj\Debug\GroupProject1.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\source\repos\GroupProject1\obj\Debug\GroupProject1.exe
+C:\Users\dfmcd\source\repos\GroupProject1\obj\Debug\GroupProject1.pdb
+D:\VS projects\GroupProject1\bin\Debug\GroupProject1.exe.config
+D:\VS projects\GroupProject1\bin\Debug\GroupProject1.exe
+D:\VS projects\GroupProject1\bin\Debug\GroupProject1.pdb
+D:\VS projects\GroupProject1\obj\Debug\GroupProject1.csprojAssemblyReference.cache
+D:\VS projects\GroupProject1\obj\Debug\GroupProject1.csproj.CoreCompileInputs.cache
+D:\VS projects\GroupProject1\obj\Debug\GroupProject1.exe
+D:\VS projects\GroupProject1\obj\Debug\GroupProject1.pdb
